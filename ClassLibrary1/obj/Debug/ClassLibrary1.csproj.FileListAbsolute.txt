@@ -1,0 +1,7 @@
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\bin\Debug\nunit.framework.xml
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\jakob.backlund\documents\visual studio 2015\Projects\TeamCityTest\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
