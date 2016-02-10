@@ -10,7 +10,13 @@ namespace TeamCityTest
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello world!");
+        }
+
+        public static int return2()
+        {
+            return 2;
         }
     }
 }
