@@ -12,7 +12,7 @@ namespace ClassLibrary1
         [Test]
         public void test()
         {
-            Assert.AreEqual(2, 3);
+            Assert.AreEqual(2, 2);
         }
     }
 }
