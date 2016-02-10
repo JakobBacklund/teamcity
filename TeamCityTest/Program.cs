@@ -10,7 +10,7 @@ namespace TeamCityTest
     {
         static void Main(string[] args)
         {
-            Console.Writne("Hello world!");
+            Console.WriteLine("Hello world!");
         }
     }
 }
